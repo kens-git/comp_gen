@@ -1,0 +1,2 @@
+#include "MelodyConfig.hpp"
+

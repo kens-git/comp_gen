@@ -1,0 +1,6 @@
+MAKE NOTE THAT WEIGHTINGS IN CONFIGURATIONS SHOULD BE INTEGERS, NOT FLOATS!
+
+Dotted Whole notes
+Tied notes
+License.txt
+replace tuple includes with utility heade includes
